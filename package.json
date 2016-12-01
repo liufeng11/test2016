@@ -1,0 +1,33 @@
+{
+  "name": "test2016",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-uglify": "^2.0.0",
+    "imagemin-gifsicle": "^5.1.0",
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-optipng": "^5.2.1",
+    "imagemin-pngcrush": "^5.0.0",
+    "imagemin-pngquant": "^5.0.0",
+    "imagemin-svgo": "^5.2.0",
+    "jshint": "^2.9.4"
+  },
+  "dependencies": {
+    "gulp-jshint": "^2.0.4"
+  }
+}
