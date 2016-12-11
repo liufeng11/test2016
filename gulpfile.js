@@ -25,7 +25,7 @@ gulp.task('clean',function (cb) {
 gulp.task('mincss',function () {
     return gulp.src('./public/*.css')
         .pipe(mincss())
-        .pipe(gulp.dest('dist/css'))
+        .pipe(gulp.dest('dist'))
 });
 
 gulp.task('minimg', function () {
